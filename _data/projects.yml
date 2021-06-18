@@ -3,27 +3,27 @@
 
 # jazznotes.io
 - project: Project NEPOM
-  role: Developer
+  role: Desenvolvedor
   duration: 2017 &mdash; 2018
   # url: "#"
-  description: Development of an automation solution in conjunction with NEPOM in Foz do Iguaçu / PR for a boat belonging to PF. The project aimed to grant remote control capability to the boat, and the addition of sensing and telemetry elements to the boat.
+  description: Desenvolvimento de solução de automação em conjunto com o NEPOM em Foz do Iguaçu/PR para embarcação da PF. O projeto teve como objetivo conceder capacidade de controle remoto ao barco, e a adição de elementos de sensoriamento e telemetria ao barco.
 
 - project: Smart PTI
-  role: Developer
+  role: Desenvolvedor
   duration: 2017 &mdash; 2018
   # url: "#"
-  description: Smart PTI” platform used to integrate the Park, with sensors for data acquisition of functional areas. The sensors allow the optimization of activities and decision making. The innovative technology used in the project is based on the concept of Smart Cities and Internet of Things (Internet of Things), which involve the intensive use of communication and information technology sensitive to the context of urban management. The project is a joint undertaking by Itaipu Binacional, PTI, Universidade Estadual do Oeste do Paraná (Unioeste) and IFPR.
+  description: Plataforma SMART PTI utilizada para integração do Parque Tecnológico de Itaipu com sensores para aquisição de dados das áreas funcionais. Os sensores permitem a otimização das atividades e a tomada de decisões. A tecnologia inovadora utilizada no projeto é baseada no conceito de Smart Cities e Internet of Things (Internet of Things), que envolvem o uso intensivo de tecnologias de comunicação e informação sensíveis ao contexto da gestão urbana. O projeto é uma parceria entre Itaipu Binacional, PTI, Universidade Estadual do Oeste do Paraná (Unioeste) e IFPR.
 
 
-- project: RFID inventory for Itaipu Dam
-  role: Researcher
+- project: Inventário pro RFID para ITAIPU;
+  role: Pesquisador
   duration: 2017 &mdash; 2017
   # url: "#"
-  description: SmStudy of factors that could make feasible or impossible to implement a system of Radio Frequency Identification or RFID (Radio-Frequency Identification) in inventory items. Human resources were allocated for research from the Latin American Center for Open Technologies - CELTAB, in agreement with ITAIPU BINACIONAL, where a total of 1 (one) researcher was stipulated in the bibliographic and state of the art technology research phase. RFID. Free technologies are a powerful Research and Development tool and potential generator of solutions to the needs of Itaipu Binacional, as well as an input for the formation of new ventures. The researcher's initial activities were to delimit the scope of the project according to the needs of ITAIPU.
+  description: Estudo de fatores que poderiam viabilizar ou impossibilitar a implantação de um sistema de Identificação por Radiofrequência ou RFID (Identificação por Radiofrequência) nos itens de estoque de umas das maiores usinas do Mundo. 
 
 
-- project: Virtual Power Plants
-  role: Researcher
+- project: Usinas de energia virtuais
+  role: Pesquisador
   duration: 2015 &mdash; 2017
   # url: "#"
-  description: Development of a system for monitoring and managing mixed microgeneration plants to provide services in distributed generation systems. The project is in line with the concept of Virtual Power Plants, as it aims to manage the distributed energy resources. It is a partnership between the Renewable Energy Center - CiBiogás, Rondônia Power Plants - CERON and Itaipu Binacional / BR.
+  description: Desenvolvimento de sistema de monitoramento e gerenciamento de usinas mistas de microgeração para prestação de serviços em sistemas de geração distribuída. O projeto está alinhado com o conceito de Usinas Virtuais, pois visa a gestão dos recursos energéticos distribuídos. É uma parceria entre o Centro de Energias Renováveis ​​- CiBiogás, Usinas Hidrelétricas de Rondônia - CERON e Itaipu Binacional/BR.
