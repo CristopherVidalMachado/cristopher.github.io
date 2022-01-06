@@ -8,17 +8,17 @@
   summary: <ul class="resume-item-list"><li>Definição de melhores práticas.</li> <li>Acompanhamento do processos desenvolvimento.</li> <li>Análise de requisitos e Arquitetura de software.</li></ul>
 
 - company: MS Bank - S.A. Banco de Câmbio/Kionux
-  position: TI Project Manager
+  position: Gerente  de projetos
   duration: Out, 2020 &mdash; Jul, 2021
   summary: <ul class="resume-item-list"><li>Coordenação de múltiplas equipes.</li> <li>Gestão do processo de desenvolvimento.</li> <li>Análise de requisitos e Arquitetura de software.</li><li>Desenvolvimento de produtos.</li></ul>
 
 - company: MS Bank - S.A. Banco de Câmbio/Kionux
-  position: Software Analyst
+  position: Analista de software
   duration: Fev, 2020 &mdash; Out, 2020
   summary: <ul class="resume-item-list"><li>Desenvolvimento de APIs bancárias de alta disponibilidade para clientes terceiros; </li> <li>Integrações de alto impacto com sistemas bancários tradicionais; </li> <li> Estruturação de novos serviços e API's.</li></ul>
 
 - company: MS Bank - S.A. Banco de Câmbio/Kionux
-  position: Full Stack Developer
+  position: Desenvolvedor Full Stack
   duration: Fev, 2018 &mdash; Fev, 2020
   summary: <ul class="resume-item-list"><li>Sistemas de autenticação e autorização com OAuth2 para serviços bancários;</li><li>Desenvolvimento Mobile(Flutter and Ionic);</li><li> Amplo uso de tecnologias em ambiente produtivo (php, node, mysql, rabbitmq, shell script, js, dart e outras)</li></ul>
 
