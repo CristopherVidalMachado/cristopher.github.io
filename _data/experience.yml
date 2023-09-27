@@ -1,5 +1,11 @@
 # Jobs
 # VP of Global Communications
+- company: RFA Labs
+  position: Senior Software Engineer
+  duration: Nov, 2021 &mdash; Current - Canada
+  summary: <ul class="resume-item-list"><li> Dynamic Workflows using Temporal.io</li><li>API Development</li><li>Domain Specific Language development</li></ul>
+
+
 - company: Braza Bank (Formerly MS Bank)
   position: Senior Software Engineer & Devops
   duration: Feb, 2022 &mdash; Dec 2022 - Brazil & UK
@@ -9,7 +15,7 @@
 - company: MadeiraMadeira
   position: Senior Software Engineer & Tech Leader
   duration: Aug, 2021 &mdash; Mar 2022 - Brazil 
-  summary: <ul class="resume-item-list"><li>Definition of best practices.</li> <li>Definition of development processes.</li> <li>Requirements analysis and software architecture.</li><li>API development</li><li>Workflow with dynamic tasks using DSL</li></ul>
+  summary: <ul class="resume-item-list"><li>Definition of best practices.</li> <li>Definition of development processes.</li> <li>Requirements analysis and software architecture.</li><li>API development.</li><li>Workflow with dynamic tasks using DSL.</li></ul>
 - company: MS Bank - S.A. Banco de Câmbio
   position: Project Manager
   duration: Oct, 2020 &mdash; Jul, 2021 - Brazil 
