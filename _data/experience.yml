@@ -8,32 +8,33 @@
   summary: <ul class="resume-item-list"><li>Definition of best practices.</li> <li>Definition of development processes.</li> <li>Requirements analysis and software architecture.</li></ul>
 
 - company: MS Bank - S.A. Banco de Câmbio
-  position: Gerente  de projetos
-  duration: Out, 2020 &mdash; Jul, 2021
+  position: Project Manager
+  duration: Oct, 2020 &mdash; Jul, 2021
   summary: <ul class="resume-item-list"><li>Coordination of multiple teams.</li> <li>Management of the development process.</li> <li>Requirements analysis and software architecture.</li><li>Product development.</li></ul>
 
-- company: MS Bank - S.A. Banco de Câmbio/Kionux
-  position: Analista de software
-  duration: Fev, 2020 &mdash; Out, 2020
-  summary: <ul class="resume-item-list"><li>Development of high-availability banking APIs for third-party clients. </li> <li>High-impact integrations with traditional banking systems. </li> <li>Structuring of new services and APIs..</li></ul>
+- company: MS Bank - S.A. Banco de Câmbio
+  position: Software Engineer
+  duration: Fev, 2020 &mdash; Oct, 2020
+  summary: <ul class="resume-item-list"><li>Development of high-availability banking APIs for third-party clients.</li> <li>High-impact integrations with traditional banking systems. </li> <li>Structuring of new services and APIs..</li></ul>
 
-- company: MS Bank - S.A. Banco de Câmbio/Kionux
-  position: Desenvolvedor Full Stack
+- company: MS Bank - S.A. Banco de Câmbio
+  position: Full Stack Developer
   duration: Fev, 2018 &mdash; Fev, 2020
   summary: <ul class="resume-item-list"><li>Authentication and authorization systems with OAuth2 for banking services.</li><li>Mobile development (Flutter and Ionic).</li><li>Extensive use of technologies in a production environment (PHP, Node, MySQL, RabbitMQ, shell script, JavaScript, Dart, and others).</li></ul>
 
 # Director of Digital Stratgy
 - company: Deltoro
   position: Product developer
-  duration: Jun, 2019 &mdash; Atualmente
+  duration: Jun, 2019 &mdash; Jan, 2022
   summary: Product development, IT infrastructure, and security management.
 # Communications Coordinator
-- company: Centro Latino Americano de Tecnologias Abertas
-  position: Pesquisador
-  duration: Abr, 2017  &mdash; Abr, 2018
-  summary: Estudos de qualidade de sinal da tecnologia LoraWan, tecnologia RFID e tecnologias de automação. Implementação de protótipos de transmissão de alta potência e baixo custo.
+
+- company: Centro Latino Americano de Tecnologias Abertas(Open Source Lab)
+  position: Researcher
+  duration: Apr, 2017  &mdash; Apr, 2018
+  summary: Signal quality studies of LoraWan technology, RFID technology and automation technologies. Implementation of high-power, low-cost transmission prototypes.
 
 - company: CIBiogás
-  position: Estágiario
+  position: Trainee
   duration: Mar, 2016  &mdash; Mar, 2017
   summary: Analysis and development of systems; Assisting in the preparation and control of technical documentation; Monitoring project development. IoT research on the effects of distributed photovoltaic generation on the electrical distribution system in Brazil. This internship resulted in several co-authored articles.
