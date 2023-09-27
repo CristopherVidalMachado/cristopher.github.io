@@ -14,12 +14,12 @@
 
 - company: MS Bank - S.A. Banco de Câmbio
   position: Software Engineer
-  duration: Fev, 2020 &mdash; Oct, 2020
+  duration: Feb, 2020 &mdash; Oct, 2020
   summary: <ul class="resume-item-list"><li>Development of high-availability banking APIs for third-party clients.</li> <li>High-impact integrations with traditional banking systems. </li> <li>Structuring of new services and APIs.</li></ul>
 
 - company: MS Bank - S.A. Banco de Câmbio
   position: Full Stack Developer
-  duration: Fev, 2018 &mdash; Fev, 2020
+  duration: Feb, 2018 &mdash; Feb, 2020
   summary: <ul class="resume-item-list"><li>Authentication and authorization systems with OAuth2 for banking services.</li><li>Mobile development (Flutter and Ionic).</li><li>Extensive use of technologies in a production environment (PHP, Node, MySQL, RabbitMQ, shell script, JavaScript, Dart, and others).</li></ul>
 
 - company: Deltoro
