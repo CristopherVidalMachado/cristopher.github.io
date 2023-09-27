@@ -1,16 +1,16 @@
 # Skills
 # Organizational leadership
-- skill: Linguagens de programação
-  description: Golang,PHP, Ruby, Dart, Javascript, Typescript e Crystal
+- skill: Programming Languages
+  description: Golang, PHP, Ruby, Dart, Javascript, Typescript, Crystal, C, C++ and C#.
 
 # Communications strategy
 - skill: Frameworks
-  description: Slim V3, Laravel, Ruby On Rails, Hanami, Fluter e Ionic(angular)
+  description: NestJS, Slim V3, Laravel, Ruby On Rails, Hanami, Fluter and Ionic(angular).
 
 # Digital content development e creation
-- skill: Outras
-  description:  GIT Version control, REST, SOAP, CI/CD, mysql, docker, rabbitmq, microservices, OAuth2 e AWS.
+- skill: Other
+  description: AWS, Azure, GIT Version control, REST, SOAP, CI/CD, mysql, docker, rabbitmq, microservices  and OAuth2.
 
-- skill: Idiomas
-  description:  Inglês, Português, Espanhol e Libras.
+- skill: Languages
+  description:  English, Português, Spanish and Brazilian Sign Language(Libras).
 
