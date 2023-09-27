@@ -2,13 +2,13 @@
 # VP of Global Communications
 - company: Braza Bank
   position: Senior Software Engineer & Devops
-  duration: Feb, 2022 &mdash; Dec 2022 - Brazil & United Kingdom
-  summary: <ul class="resume-item-list"><li>Using Terraform to efficiently and scalably provision and manage infrastructure as code (IaC).</li> <li>Close collaboration with development teams to ensure continuous integration and continuous delivery (CI/CD) of applications.</li> <li>Implementation of security practices throughout the infrastructure's lifecycle, ensuring compliance with policies.</li></ul>
+  duration: Feb, 2022 &mdash; Dec 2022 - Brazil & UK
+  summary: <ul class="resume-item-list"><li>Using Terraform to efficiently and scalably provision and manage infrastructure as code (IaC).</li> <li>Close collaboration with development teams to ensure continuous integration and continuous delivery (CI/CD) of applications.</li> <li>Implementation of security practices throughout the infrastructure's lifecycle, ensuring compliance with policies.</li> <li>Proficient in building AWS infrastructure, harnessing the power of Lambda functions, EC2 instances, ECS instances, load balancers, and CodePipeline for efficient and scalable solutions.</li></ul>
 
 
 - company: MadeiraMadeira
   position: Tech Leader
-  duration: Aug, 2021 &mdash; Mar 2022 -   <a href="{{ site.resume_social_links.resume_medium_url }}" class="icon-link" itemprop="url"></a>
+  duration: Aug, 2021 &mdash; Mar 2022 - Curitiba, Brazil 
   summary: <ul class="resume-item-list"><li>Definition of best practices.</li> <li>Definition of development processes.</li> <li>Requirements analysis and software architecture.</li></ul>
 
 - company: MS Bank - S.A. Banco de Câmbio
