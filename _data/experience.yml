@@ -1,9 +1,9 @@
 # Jobs
 # VP of Global Communications
 - company: Braza Bank
-  position: Senior Software Engineer 
+  position: Senior Software Engineer & Devops
   duration: Feb, 2022 &mdash; Dec 2022 - Brazil & United Kingdom
-  summary: <ul class="resume-item-list"><li>Definition of best practices.</li> <li>Definition of development processes.</li> <li>Requirements analysis and software architecture.</li></ul>
+  summary: <ul class="resume-item-list"><li>Using Terraform to efficiently and scalably provision and manage infrastructure as code (IaC).</li> <li>Close collaboration with development teams to ensure continuous integration and continuous delivery (CI/CD) of applications.</li> <li>Implementation of security practices throughout the infrastructure's lifecycle, ensuring compliance with policies.</li></ul>
 
 
 - company: MadeiraMadeira
