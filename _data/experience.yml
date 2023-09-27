@@ -5,29 +5,28 @@
 - company: MadeiraMadeira
   position: Tech Leader
   duration: Aug, 2021 &mdash; Mar 2022
-  summary: <ul class="resume-item-list"><li>Definição de melhores práticas.</li> <li>Acompanhamento do processos desenvolvimento.</li> <li>Análise de requisitos e Arquitetura de software.</li></ul>
+  summary: <ul class="resume-item-list"><li>Definition of best practices.</li> <li>Definition of development processes.</li> <li>Requirements analysis and software architecture.</li></ul>
 
-- company: MS Bank - S.A. Banco de Câmbio/Kionux
+- company: MS Bank - S.A. Banco de Câmbio
   position: Gerente  de projetos
   duration: Out, 2020 &mdash; Jul, 2021
-  summary: <ul class="resume-item-list"><li>Coordenação de múltiplas equipes.</li> <li>Gestão do processo de desenvolvimento.</li> <li>Análise de requisitos e Arquitetura de software.</li><li>Desenvolvimento de produtos.</li></ul>
+  summary: <ul class="resume-item-list"><li>Coordination of multiple teams.</li> <li>Management of the development process.</li> <li>Requirements analysis and software architecture.</li><li>Product development.</li></ul>
 
 - company: MS Bank - S.A. Banco de Câmbio/Kionux
   position: Analista de software
   duration: Fev, 2020 &mdash; Out, 2020
-  summary: <ul class="resume-item-list"><li>Desenvolvimento de APIs bancárias de alta disponibilidade para clientes terceiros; </li> <li>Integrações de alto impacto com sistemas bancários tradicionais; </li> <li> Estruturação de novos serviços e API's.</li></ul>
+  summary: <ul class="resume-item-list"><li>Development of high-availability banking APIs for third-party clients. </li> <li>High-impact integrations with traditional banking systems. </li> <li>Structuring of new services and APIs..</li></ul>
 
 - company: MS Bank - S.A. Banco de Câmbio/Kionux
   position: Desenvolvedor Full Stack
   duration: Fev, 2018 &mdash; Fev, 2020
-  summary: <ul class="resume-item-list"><li>Sistemas de autenticação e autorização com OAuth2 para serviços bancários;</li><li>Desenvolvimento Mobile(Flutter and Ionic);</li><li> Amplo uso de tecnologias em ambiente produtivo (php, node, mysql, rabbitmq, shell script, js, dart e outras)</li></ul>
+  summary: <ul class="resume-item-list"><li>Authentication and authorization systems with OAuth2 for banking services.</li><li>Mobile development (Flutter and Ionic).</li><li>Extensive use of technologies in a production environment (PHP, Node, MySQL, RabbitMQ, shell script, JavaScript, Dart, and others).</li></ul>
 
 # Director of Digital Stratgy
 - company: Deltoro
-  position: Desenvolvedor de produtos e consultor de TI
+  position: Product developer
   duration: Jun, 2019 &mdash; Atualmente
-  summary: Desenvolvimento de produtos, infraestrutura de TI e gestão de segurança.
-
+  summary: Product development, IT infrastructure, and security management.
 # Communications Coordinator
 - company: Centro Latino Americano de Tecnologias Abertas
   position: Pesquisador
@@ -37,4 +36,4 @@
 - company: CIBiogás
   position: Estágiario
   duration: Mar, 2016  &mdash; Mar, 2017
-  summary: Análise e desenvolvimento de sistemas; Auxiliar na elaboração e controle de documentação técnica; Acompanhamento  do desenvolvimento do projeto. Pesquisa IoT dos efeitos da geração distribuída fotovoltaica no sistema de distribuição de energia elétrica no Brasil. Esse estágio gerou uma série de artigos de quais fui co-autor.
+  summary: Analysis and development of systems; Assisting in the preparation and control of technical documentation; Monitoring project development. IoT research on the effects of distributed photovoltaic generation on the electrical distribution system in Brazil. This internship resulted in several co-authored articles.
