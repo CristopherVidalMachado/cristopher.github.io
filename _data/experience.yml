@@ -8,7 +8,7 @@
 
 - company: MadeiraMadeira
   position: Tech Leader
-  duration: Aug, 2021 &mdash; Mar 2022 -   <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_medium_url }}" class="icon-link" itemprop="url">{% include icons/icon-medium.html %}</a>/li>
+  duration: Aug, 2021 &mdash; Mar 2022 -   <a href="{{ site.resume_social_links.resume_medium_url }}" class="icon-link" itemprop="url"></a>
   summary: <ul class="resume-item-list"><li>Definition of best practices.</li> <li>Definition of development processes.</li> <li>Requirements analysis and software architecture.</li></ul>
 
 - company: MS Bank - S.A. Banco de Câmbio
