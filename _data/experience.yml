@@ -15,19 +15,17 @@
 - company: MS Bank - S.A. Banco de Câmbio
   position: Software Engineer
   duration: Fev, 2020 &mdash; Oct, 2020
-  summary: <ul class="resume-item-list"><li>Development of high-availability banking APIs for third-party clients.</li> <li>High-impact integrations with traditional banking systems. </li> <li>Structuring of new services and APIs..</li></ul>
+  summary: <ul class="resume-item-list"><li>Development of high-availability banking APIs for third-party clients.</li> <li>High-impact integrations with traditional banking systems. </li> <li>Structuring of new services and APIs.</li></ul>
 
 - company: MS Bank - S.A. Banco de Câmbio
   position: Full Stack Developer
   duration: Fev, 2018 &mdash; Fev, 2020
   summary: <ul class="resume-item-list"><li>Authentication and authorization systems with OAuth2 for banking services.</li><li>Mobile development (Flutter and Ionic).</li><li>Extensive use of technologies in a production environment (PHP, Node, MySQL, RabbitMQ, shell script, JavaScript, Dart, and others).</li></ul>
 
-# Director of Digital Stratgy
 - company: Deltoro
   position: Product developer
   duration: Jun, 2019 &mdash; Jan, 2022
   summary: Product development, IT infrastructure, and security management.
-# Communications Coordinator
 
 - company: Centro Latino Americano de Tecnologias Abertas(Open Source Lab)
   position: Researcher
@@ -37,4 +35,4 @@
 - company: CIBiogás
   position: Trainee
   duration: Mar, 2016  &mdash; Mar, 2017
-  summary: Analysis and development of systems; Assisting in the preparation and control of technical documentation; Monitoring project development. IoT research on the effects of distributed photovoltaic generation on the electrical distribution system in Brazil. This internship resulted in several co-authored articles.
+  summary: <ul class="resume-item-list"> <li>Analysis and development of systems.</li> <li>Assisting in the preparation and control of technical documentation.</li> <li>Monitoring project development.</li> <li> IoT research on the effects of distributed photovoltaic generation on the electrical distribution system in Brazil,this internship resulted in several co-authored articles.</li></ul>
