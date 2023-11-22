@@ -29,7 +29,7 @@
 - company: MS Bank - S.A. Banco de Câmbio
   position: Full Stack Developer
   duration: Feb, 2018 &mdash; Feb, 2020 - Brazil 
-  summary: <ul class="resume-item-list"><li>Authentication and authorization systems with OAuth2 for banking services.</li><li>Mobile development (Flutter and Ionic).</li><li>Extensive use of technologies in a production environment (PHP, Node, MySQL, RabbitMQ, shell script, JavaScript, Dart, and others).</li></ul>
+  summary: <ul class="resume-item-list"><li>Authentication and authorization systems with OAuth2 for banking services.</li> <li>Kafka Streams.</li><li>Mobile development (Flutter and Ionic).</li><li>Extensive use of technologies in a production environment (PHP, Node, MySQL, RabbitMQ, shell script, JavaScript, Dart, and others).</li></ul>
 
 - company: Deltoro
   position: Product developer
